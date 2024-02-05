@@ -1,0 +1,32 @@
+*
+{
+    margin              : 0         ;
+    font-family         : arial     ;
+}
+
+div#menu 
+{
+    background-color    : #666    ;
+    padding             : 8px 0     ;
+    text-align          : center    ;
+    color               :#FFF; 
+    font-weight         : bold;
+}
+
+div#menu a
+{
+    color               : #FFF        ;
+    text-decoration     : none          ;
+    display             : inline-block  ;
+    width               : 120px         ;
+}
+
+div#menu a:hover 
+{
+    color               :#FF0           ;
+}
+
+div#tartalom    
+{
+    margin              : 12px 36px         ;
+}
